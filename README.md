@@ -1,16 +1,17 @@
-# practice_app
+# Ram Lala Temple Breif History App
 
-A new Flutter project.
+Created a flutter andriod app for spreading the information about the Ram Lala Mandir .. Brief History about the sacred temple and also added Ram Lala's Bhajan
+In this app i have used just_audio for the bhajan play and pause funtion.
+and tried to implement proper user friendly UI and add more creativity to it .. 
 
-## Getting Started
+APK for the app is in the repository📱
 
-This project is a starting point for a Flutter application.
+Framework : Flutter 
+Language : dart 
+Code Editor : VS Code
 
-A few resources to get you started if this is your first Flutter project:
+App ScreenShots
+![Untitled design (1) (1)](https://github.com/sarthak-burmi/Roziroti.work_Assignment/assets/87921529/a9d86697-672d-4077-9ea3-be40f7c21f37)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Designed and developed with ❤️ by Sarthak Burmi
